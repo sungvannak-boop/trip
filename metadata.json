@@ -1,0 +1,6 @@
+{
+  "name": "Kingdom Compass — Cambodia Tourism Guide",
+  "description": "Bilingual Khmer and English Cambodia Tourism Guide application with interactive destination discovery, travel itinerary planner, admin console, and complete Flutter, Laravel, and MySQL source deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "@@locale": "km",
+  "appTitle": "Kingdom Compass",
+  "navHome": "ទំព័រដើម",
+  "navExplore": "ស្វែងរក",
+  "navFavorites": "ចូលចិត្ត",
+  "navTrips": "គម្រោងដំណើរ",
+  "navProfile": "គណនី",
+  "heroBannerTitle": "ស្វែងយល់ពីប្រាសាទបុរាណ ទន្លេ និងកោះនៅកម្ពុជា",
+  "searchHint": "ស្វែងរក អង្គរវត្ត កំពត កោះរ៉ុង...",
+  "categories": "ប្រភេទតំបន់ទេសចរណ៍",
+  "popularDestinations": "តំបន់ទេសចរណ៍ពេញនិយម",
+  "featuredDestinations": "តំបន់ទេសចរណ៍ពិសេស",
+  "recommendedPlaces": "កន្លែងដែលគួរទៅទស្សនា",
+  "verificationNotice": "សូមផ្ទៀងផ្ទាត់តម្លៃសំបុត្រ និងម៉ោងបើកទស្សនានៅទីតាំងផ្ទាល់។",
+  "openInGoogleMaps": "បើកទិសដៅក្នុង Google Maps",
+  "travelTips": "គន្លឹះធ្វើដំណើរ",
+  "entranceFee": "តម្លៃសំបុត្រចូល",
+  "openingHours": "ម៉ោងបើកទស្សនា",
+  "noFavorites": "មិនទាន់មានទីតាំងដែលបានរក្សាទុកទេ។",
+  "createTrip": "បង្កើតគម្រោងថ្មី",
+  "languageSwitch": "ភាសាកម្មវិធី"
+}

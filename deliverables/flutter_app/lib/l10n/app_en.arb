@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appTitle": "Kingdom Compass",
+  "navHome": "Home",
+  "navExplore": "Explore",
+  "navFavorites": "Favorites",
+  "navTrips": "My Trips",
+  "navProfile": "Profile",
+  "heroBannerTitle": "Discover Temples, Rivers & Islands Across Cambodia",
+  "searchHint": "Search Angkor Wat, Kampot, Koh Rong...",
+  "categories": "Categories",
+  "popularDestinations": "Popular Destinations",
+  "featuredDestinations": "Featured Landmarks",
+  "recommendedPlaces": "Recommended Places",
+  "verificationNotice": "Verify current entrance fees and opening hours on site.",
+  "openInGoogleMaps": "Directions in Google Maps",
+  "travelTips": "Travel Tips",
+  "entranceFee": "Entrance Fee",
+  "openingHours": "Opening Hours",
+  "noFavorites": "No saved destinations yet.",
+  "createTrip": "New Travel Plan",
+  "languageSwitch": "Language"
+}
